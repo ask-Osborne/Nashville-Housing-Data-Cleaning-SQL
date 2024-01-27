@@ -41,9 +41,7 @@ Execute the provided SQL queries in sequence to perform the analysis and cleanin
 
 Feel free to explore and adapt the queries based on specific requirements.
 
-## Note
 
-Make sure to backup your data before executing any modifications, especially if the SQL queries are run on a production database.
 
 
 
